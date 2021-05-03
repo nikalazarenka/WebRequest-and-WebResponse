@@ -1,0 +1,15 @@
+D:\Универ\6 сем\сети\WebRequestResponse\bin\Debug\WebRequestResponse.exe.config
+D:\Универ\6 сем\сети\WebRequestResponse\bin\Debug\WebRequestResponse.exe
+D:\Универ\6 сем\сети\WebRequestResponse\bin\Debug\WebRequestResponse.pdb
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\WebRequestResponse.csprojAssemblyReference.cache
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\MainWindow.g.cs
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\App.g.cs
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\WebRequestResponse_MarkupCompile.cache
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\WebRequestResponse_MarkupCompile.lref
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\MainWindow.baml
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\WebRequestResponse.g.resources
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\WebRequestResponse.Properties.Resources.resources
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\WebRequestResponse.csproj.GenerateResource.cache
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\WebRequestResponse.csproj.CoreCompileInputs.cache
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\WebRequestResponse.exe
+D:\Универ\6 сем\сети\WebRequestResponse\obj\Debug\WebRequestResponse.pdb

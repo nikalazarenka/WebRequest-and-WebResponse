@@ -1,0 +1,18 @@
+﻿<Window x:Class="WebRequestResponse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WebRequestResponse"
+        mc:Ignorable="d"
+        Title="WebResponse" Height="450" Width="480" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="URL-адрес" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox Name= "txb_url" HorizontalAlignment="Left" Height="23" Margin="92,13,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209"/>
+        <Button Name="request" Content="Получить информацию" HorizontalAlignment="Left" Margin="316,11,0,0" VerticalAlignment="Top" Width="138" Height="23" Click="Request_Click"/>
+        <Label Content="Исходный код страницы:" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txb_sourceCode" HorizontalAlignment="Left" Height="149" Margin="10,83,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="444" IsReadOnly="True"/>
+        <TextBox Name="txb_serverInfo" HorizontalAlignment="Left" Height="149" Margin="10,248,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="444" IsReadOnly="True"/>
+
+    </Grid>
+</Window>
